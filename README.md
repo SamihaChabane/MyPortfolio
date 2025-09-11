@@ -8,7 +8,7 @@
 -Links
 ## Education
 -University 1
--College
+-College 1
 ## Work history
 -Work 1
 -Work 2
